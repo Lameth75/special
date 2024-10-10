@@ -9,5 +9,5 @@
 # google.com, mailscanner.info, github.com/AdguardTeam, HyperPhish.com, CryptoScamDB 
 # sowie lumendatabase.org.
 
-zcegukojll.com
-de.stripchat.com
+||zcegukojll.com^
+||de.stripchat.com^
